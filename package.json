@@ -1,6 +1,8 @@
 {
-  "name": "animais-fantasticos",
+  "name": "animais-eslint",
   "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
   "scripts": {
     "build": "webpack --mode production",
     "dev": "webpack --mode development --watch"
